@@ -1,4 +1,3 @@
-// See canvas: RValueCalculatorReact_v2
 """
 rvalue_calculator_v2.py
 
